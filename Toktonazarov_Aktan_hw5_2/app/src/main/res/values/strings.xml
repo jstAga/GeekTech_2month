@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toktonazarov_Aktan_hw5_2</string>
+    <string name="log_in">LOG IN</string>
+    <string name="facebook">Log in with Facebook</string>
+    <string name="game">GAME NOW</string>
+    <string name="or">OR</string>
+    <string name="email">Up with Email</string>
+    <string name="trivia">Trivia</string>
+</resources>
