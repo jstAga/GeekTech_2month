@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GeekTech_2month.iml" filepath="$PROJECT_DIR$/.idea/GeekTech_2month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Toktonazarov_Aktan_hw6.iml" filepath="$PROJECT_DIR$/.idea/modules/Toktonazarov_Aktan_hw6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toktonazarov_Aktan_hw6.app.unitTest.iml" />
     </modules>
   </component>
 </project>
